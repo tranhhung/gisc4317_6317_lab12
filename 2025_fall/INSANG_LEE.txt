@@ -1,0 +1,3 @@
+# Dallas Crime Mapping Tools (2014-2023)
+This project develops a Python-based automated GIS tool that analyzes ten years of Dallas Police Incident data, generating heatmaps, point maps, and temporal trend charts.
+Repo: https://github.com/milk323/giscX317_lab12
