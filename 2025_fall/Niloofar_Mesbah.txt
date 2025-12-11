@@ -1,0 +1,7 @@
+Final Project Title:
+A Python Toolkit for Exploring Lithium-rich Formation Waters in North American Sedimentary Basins
+
+Project Description:
+I’ve developed a Python-based toolkit to clean, analyze, and visualize geochemical data from lithium-rich formation waters across North American sedimentary basins.
+
+https://github.com/Niloofarmb/gisc4317_6317_lab12.git
